@@ -40,12 +40,12 @@ writing code and pretending the playlist is helping
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=EshaniKatiyar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb6c1&text_color=8b949e&icon_color=e75480&count_private=true" height="160" />
-<img src="https://streak-stats.demolab.com?user=EshaniKatiyar&hide_border=true&background=0d1117&stroke=21262d&ring=e75480&fire=e75480&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="160" />
+<img src="https://streak-stats.demolab.com?user=EshaniKatiyar&hide_border=true&background=0d1117&stroke=21262d&ring=e75480&fire=e75480&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&mode=weekly" height="165" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaniKatiyar&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb6c1&text_color=8b949e&langs_count=8" height="140" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EshaniKatiyar&theme=github_dark" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EshaniKatiyar&theme=github_dark&exclude=jupyter%20notebook" height="165" />
 
 ---
 
