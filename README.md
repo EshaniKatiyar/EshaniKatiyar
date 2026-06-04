@@ -6,11 +6,11 @@ writing code and pretending the playlist is helping
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=e75480)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=e75480)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=e75480)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffb6c1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e75480)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=e75480)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=e75480)
@@ -38,9 +38,9 @@ writing code and pretending the playlist is helping
 
 ---
 
-### 📊 Stats
+### Stats
 
-<img src="https://streak-stats.demolab.com?user=EshaniKatiyar&hide_border=true&background=0d1117&stroke=21262d&ring=e75480&fire=e75480&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&mode=weekly" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EshaniKatiyar&hide_border=true&background=0d1117&stroke=21262d&ring=e75480&fire=e75480&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165" />
 
 <br/>
 
