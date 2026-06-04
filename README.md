@@ -10,10 +10,10 @@ writing code and pretending the playlist is helping
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=e75480)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=e75480)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffb6c1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e75480)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=e75480)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=e75480)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffb6c1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e75480)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=e75480)
 ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=e75480)
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=e75480)
@@ -40,12 +40,13 @@ writing code and pretending the playlist is helping
 
 ### Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EshaniKatiyar&hide_border=true&background=0d1117&stroke=21262d&ring=e75480&fire=e75480&currStreakNum=ffb6c1&sideNums=ffb6c1&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EshaniKatiyar&theme=github_dark" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EshaniKatiyar&theme=github_dark&utcOffset=5.5" height="165" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EshaniKatiyar&theme=github_dark" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EshaniKatiyar&theme=github_dark&exclude=jupyter%20notebook" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EshaniKatiyar&theme=github_dark&exclude=jupyter%20notebook" height="165" />
 
 ---
 
