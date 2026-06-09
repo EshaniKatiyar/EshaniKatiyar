@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-writing code and pretending the playlist is helping
+writing code and pretending that the playlist is helping
 ```
 
 ---
